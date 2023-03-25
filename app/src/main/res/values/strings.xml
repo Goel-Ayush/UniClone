@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UniClone</string>
+    <string name="nx_wave_the_next_gen_credit_card_for_those_who_love_rewards">NX Wave. The next-gen credit card for those who love rewards.</string>
+    <string name="foo"><![CDATA[<b>NX Wave.</b> The next-gen credit card for those who love rewards.]]></string>
+    <string name="_1_cashback_5x_rewards_zero_forex_markup">1% Cashback + 5x Rewards + Zero Forex Markup</string>
+    <string name="earn_1_assured_cashback_on_your_spends_get_5x_more_value_than_cashback_at_the_uni_store_enjoy_round_the_clock_whatsapp_support_and_it_s_lifetime_free_no_joining_fee_no_annual_charges">Earn 1% assured cashback on your spends. Get 5X more value than cashback at the Uni Store. Enjoy round the clock Whatsapp support. And it\'s lifetime free; no joining fee, no annual charges.</string>
+    <string name="one_assured_cb_html"><![CDATA[Earn 1% assured cashback <font color="#9EA7AE"> on your spends. Get </font>5X more value than cashback <font color="#9EA7AE">at the Uni Store. Enjoy round the clock</font> Whatsapp support. <font color="#9EA7AE">And it\'s </font>lifetime free<font color="#9EA7AE">; no joining fee, no annual charges.</font>]]></string>
+    <string name="one_percent_sub_text"><![CDATA[Not applicable on fuel purchase, rent & wallet transfers, ATM withdrawals & international transactions.]]></string>
+    <string name="_1_assured_cb_html_3"><![CDATA[1% assured cashback on your spends.<font color="#9EA7AE">The more you spend, the more you earn.</font>]]></string>
+</resources>
+
+<!--    9EA7AE-->
